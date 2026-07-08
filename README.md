@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Ahmet Şerif! | Hi, I'm Ahmet Şerif!
 
-<!--
-**0x61A/0x61A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=0x61A%20|%20Ahmet%20Şerif&fontSize=50&animation=fadeIn&fontAlignY=35&theme=dark" />
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 Hakkımda | About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Bilgisayar Mühendisliği Öğrencisi** | Computer Engineering Student
+- 🚀 **Teknolojiye meraklı ve sürekli öğrenen bir geliştirici.** | A tech enthusiast and continuous learner.
+- 🛠️ **Public projelerim üzerinde çalışıyorum.** | Building and contributing to public projects.
+- 📍 **Konum:** Türkiye
+
+---
+
+### 🛠️ Teknolojiler & Araçlar | Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,linux,git,docker,postgres,mongodb,aws" />
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim | GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/0x61A">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x61A&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/0x61A">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x61A&layout=compact&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x61A&theme=tokyonight" alt="0x61A Streak" />
+</p>
+
+---
+
+### 🖇️ İletişim | Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmetserif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetserif" height="30" width="40" /></a>
+<img align="right" src="https://komarev.com/ghpvc/?username=0x61A&label=Profil%20Ziyareti&color=blue&style=flat" alt="0x61A" />
+</p>
+
+---
+
+### 🚀 Öne Çıkan Projeler | Featured Projects
+
+> [!TIP]
+> Public olan en iyi projelerimi aşağıda bulabilirsiniz! / Check out my best public repos below!
+
+*   **[Proje Adı 1]** - Kısa açıklama buraya. (Linkini eklemeyi unutma!)
+*   **[Proje Adı 2]** - Kısa açıklama buraya.
+*   **[Proje Adı 3]** - Kısa açıklama buraya.
+
+---
+<p align="center">
+  <i>"Kod yazmak bir sanattır." | "Coding is an art."</i> <br>
+  <b>0x61A</b>
+</p>
