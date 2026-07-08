@@ -1,5 +1,7 @@
 # Ahmet Şerif | 0x61A
 
+Bilgisayar Mühendisliği öğrencisi ve full-stack geliştiriciyim. Web, mobil ve AI-agent tooling (Claude Code, Codex, n8n) üzerine çalışıyor, fikri production'a taşımayı seviyorum.
+
 ### 🛠️ Teknolojiler & Araçlar | Tech Stack & Tools
 
 <p align="left">
@@ -42,7 +44,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/wykXzIq14JZJyVOiAa/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/wykXzIq14JZJyVOiAa/giphy-downsized.gif" width="400" />
 </p>
 
 ---
