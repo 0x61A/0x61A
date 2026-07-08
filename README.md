@@ -47,6 +47,17 @@
 
 ---
 
+### 🎮 Kod Koşusu | Play the Game
+
+<div align="center">
+  <a href="https://dino-game-0x61a.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/0x61A/dino-game/main/dino-run-preview.svg" width="850" alt="0x61A Dino Run" />
+  </a>
+  <p>🎮 <b>Yazılım dillerini ve yapay zeka engellerini atlayıp rekor kırmak için görsele tıkla!</b></p>
+</div>
+
+---
+
 ### 🚀 Öne Çıkan Projeler | Featured Projects
 
 > [!TIP]
